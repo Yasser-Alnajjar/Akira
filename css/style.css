@@ -305,7 +305,7 @@ a {
   background: url("../images/testimonials/demo2-bg_testi.jpg");
   background-size: cover;
   min-height: 450px;
-  /* max-height: 500px; */
+  background-attachment: fixed;
 }
 .testi-img {
   width: 50px;
